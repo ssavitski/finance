@@ -1,0 +1,19 @@
+{
+  "finances": [
+    {
+      "id": 1,
+      "title": "finance 1",
+    },
+    {
+      "id": 1,
+      "title": "finance 2",
+    },
+    {
+      "id": 1,
+      "title": "finance 3",
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
